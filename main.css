@@ -1,0 +1,46 @@
+body{background-color: #f1f7ed;
+    
+}
+.card{
+    background-color: #0f7173;
+    width: 450px;
+    height: 300px;
+    margin: 0 auto;
+    margin-top:400px;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+/* Gricelda */
+h1{
+    color: #f1f7ed;
+    text-align: left;
+font-family: "futura-pt-bold", sans-serif;
+font-weight: 700;
+font-style: normal;
+font-size: 55pt;
+    
+}
+/* Mendez */
+h2{
+    color: #7dcfb6;
+    text-align: left;
+    position: absolute;
+    top: 0px;
+font-family: "futura-pt-bold", sans-serif;
+font-weight: 700;
+font-style: normal;
+font-size: 55pt;
+}
+/* Graphic Design*/
+h3{
+    color: #f1f7ed;
+    text-align: left;
+    position: absolute;
+    top: 150px;
+font-family: "futura-pt", sans-serif;
+font-weight: 500;
+font-style: oblique;
+font-size: 14pt;
+}
+/* vertical lines */
