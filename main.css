@@ -1,12 +1,12 @@
 body{background-color: #f1f7ed;
-    
+    height: 100vh;
 }
 .card{
-    background-color: #0f7173;
+    margin: auto;
+    position: relative;
     width: 450px;
-    height: 300px;
-    margin: 0 auto;
-    margin-top:400px;
+    height: 260px;
+    background-color: #0F7173;
     position: relative;
     top: 50%;
     transform: translateY(-50%);
@@ -15,10 +15,13 @@ body{background-color: #f1f7ed;
 h1{
     color: #f1f7ed;
     text-align: left;
+    position: absolute;
+    top: -55px;
+    padding-left: 20px;
 font-family: "futura-pt-bold", sans-serif;
 font-weight: 700;
 font-style: normal;
-font-size: 55pt;
+font-size: 60pt;
     
 }
 /* Mendez */
@@ -26,21 +29,50 @@ h2{
     color: #7dcfb6;
     text-align: left;
     position: absolute;
-    top: 0px;
+    top: 20px;
+    padding-left: 20px;
 font-family: "futura-pt-bold", sans-serif;
 font-weight: 700;
 font-style: normal;
-font-size: 55pt;
+font-size: 60pt;
 }
 /* Graphic Design*/
 h3{
     color: #f1f7ed;
     text-align: left;
     position: absolute;
-    top: 150px;
+    top: 180px;
+    padding-left: 20px;
 font-family: "futura-pt", sans-serif;
 font-weight: 500;
 font-style: oblique;
-font-size: 14pt;
+font-size: 18pt;
 }
-/* vertical lines */
+
+/* email icon */
+ svg#_1-Email {
+    width: 35px; 
+    height: 45px; 
+    fill: white;
+    position: absolute;
+    top: 198px;
+    left: 210px;
+    cursor: pointer;
+}
+/* Hover effect for Email Icon */
+svg#_1-Email:hover {
+    fill: #7dcfb6; 
+    transform: scale(1.1); 
+    transition: transform 0.2s, fill 0.2s; 
+}
+
+/* Vertical Lines */
+svg#Layer_1 {
+    width: 100px;
+    height: 250px; 
+    position: absolute;
+    top: 0px; 
+    right: 10px; 
+    fill: #7dcfb6;
+  }
+    
