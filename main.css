@@ -53,7 +53,7 @@ font-size: 18pt;
  svg#_1-Email {
     width: 35px; 
     height: 45px; 
-    fill: white;
+    fill: #f1f7ed;
     position: absolute;
     top: 198px;
     left: 210px;
@@ -73,6 +73,13 @@ svg#Layer_1 {
     position: absolute;
     top: 0px; 
     right: 10px; 
-    fill: #7dcfb6;
+    fill: #f1f7ed; 
   }
-
+  @media (max-width: 768px) { 
+    body {
+        background-color: #7dcfb6;
+    }
+    svg#Layer_1 { 
+        fill: #7dcfb6; 
+    }
+    }
