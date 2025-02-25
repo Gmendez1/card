@@ -1,5 +1,6 @@
 body{background-color: #f1f7ed;
     height: 100vh;
+    cursor: url('untitled-9.png'), auto; 
 }
 .card{
     margin: auto;
