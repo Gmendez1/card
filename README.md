@@ -1,3 +1,6 @@
-## Overview
 
-This is a single page website designed to put a bit about me out there in the form of a business card. Additionally it served as a beginner exercise to coding and designing a website. Where I had the chance to learn the languages of html and css. As well as learning about the importance of accessibility through color and ALT text. 
+## What I learned 
+This assignment was my first time ever coding so I learned quite a lot. Firstly I learned the simple functions of both CSS and HTML languages. Things like applying a grid, placing images, changing colors, effects on my hover button and just the general demystifying of how websites are built. Secondly I learned about the importance of accessibility. I used Adobe contrast checker to ensure that my colors for text and graphics met the necessary standards. I also learned the use of alt text and while not much is in this code knowing its use and how to apply it will definitely be important in other codes. 
+
+## Overall experience
+This was definitely a challenge but was satisfying when I was able to get things to actually work (despite the cursor I dont know whats wrong), the biggest challenge definitely was planning what I wanted it to look like. I had never done much personal branding and knowing I didn't have the skills to do extravagant code definitely created a block. Ultimately though I designed that I would keep it minimalistic and focus on understanding how it works over how it looks. I also just like the way my colors are relatively calming but still draw attention and how the size of my name makes a statement.  
